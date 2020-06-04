@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2", "laba2\laba2.csproj", "{E776E269-2DE1-4B84-BAD4-B545C7564FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testus", "Testus\Testus.csproj", "{B7B21E25-57C4-4E8D-B30C-9B1653827D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E776E269-2DE1-4B84-BAD4-B545C7564FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E776E269-2DE1-4B84-BAD4-B545C7564FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E776E269-2DE1-4B84-BAD4-B545C7564FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E776E269-2DE1-4B84-BAD4-B545C7564FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B21E25-57C4-4E8D-B30C-9B1653827D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B21E25-57C4-4E8D-B30C-9B1653827D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B21E25-57C4-4E8D-B30C-9B1653827D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B21E25-57C4-4E8D-B30C-9B1653827D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D1F125-0089-4B11-B03D-441A5B1C2637}
+	EndGlobalSection
+EndGlobal
